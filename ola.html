@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geriasphere - Ola</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="GeriasphereLogo.png">
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    #app-guide {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .video-container {
+      width: 100%;
+      max-width: 400px;
+      overflow: hidden;
+    }
+
+    video {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+    <header>
+        <a href="index.html">
+          <img src="GeriasphereNotTall.png" alt="Geriasphere Logo">
+        </a>
+      </header>
+  <main>
+    <section id="app-guide">
+      <h2>Ola Guide</h2>
+      <div class="video-container">
+        <video controls>
+          <source src="ola_video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <p>
+        Here is a step-by-step guide on how to use Ola. Watch the video to learn more about its features and how to effectively use this app.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© Geriasphere 2023 | Dylan Dsouza</p>
+  </footer>
+</body>
+</html>
