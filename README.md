@@ -1,4 +1,4 @@
-# 👥 Geriasphere
+# 👥 Geriasphere: Technologically Empowering the Elderly
 
 A comprehensive web platform designed to empower middle-aged and senior citizens with step-by-step video tutorials for India's most commonly used mobile applications and digital services.
 
