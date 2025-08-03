@@ -75,31 +75,14 @@ Geriasphere/
 ├── styles.css              
 ├── assets/                 
 │   ├── logos/          
-│   │   ├── GeriasphereLogo.png
-│   │   ├── GeriasphereNotTall.png
-│   │   ├── google_maps_logo.png
-│   │   ├── uber_logo.png
-│   │   ├── ola_logo.png
-│   │   ├── zoom_logo.png
-│   │   ├── swiggy_logo.png
-│   │   ├── gmail_logo.png
-│   │   ├── dineout_logo.png
-│   │   ├── instagram_logo.png
-│   │   └── linkedin_logo.png
+│   │   ├── [Geriasphere logo]
+│   │   └── [app logos]
 │   └── videos/            
-│       ├── dineout_video.mp4
-│       ├── uber_video.mp4
-│       └── [other app videos]
+│       └── [app tutorial videos]
+    └── screenshots/
+        └── [website screenshots]  
 ├── pages/                 
-│   ├── google_maps.html
-│   ├── uber.html
-│   ├── ola.html
-│   ├── zoom.html
-│   ├── swiggy.html
-│   ├── gmail.html
-│   ├── dineout.html
-│   ├── instagram.html
-│   └── linkedin.html
+│   └── [app tutorial pages]
 ├── LICENSE
 └── README.md
 ```
