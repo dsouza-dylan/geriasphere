@@ -149,10 +149,10 @@ Geriasphere/
 ## 📸 Screenshots
 
 ### Home Page
-![Dashboard](assets/screenshots/pic1.png)
+![Home Page](assets/screenshots/pic1.png)
 
 ### Example App Tutorial (Uber)
-![App Grid](assets/screenshots/pic2.png)
+![Uber Tutorial](assets/screenshots/pic2.png)
 
 ## 📝 License
 
