@@ -7,6 +7,8 @@ A comprehensive web platform designed to empower middle-aged and senior citizens
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+**[Try Geriasphere Live](https://geriasphere.github.io/trialgeriasphere2024/)**
+
 ## 🌐 What is Geriasphere?
 
 As India rapidly embraces digitalization, millions of senior citizens find themselves struggling to navigate the digital landscape. Geriasphere addresses this critical gap by providing **clear, step-by-step video tutorials** specifically designed for middle-aged and senior citizens to master essential mobile applications.
