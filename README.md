@@ -11,11 +11,10 @@ A comprehensive web platform designed to empower middle-aged and senior citizens
 
 As India rapidly embraces digitalization, millions of senior citizens find themselves struggling to navigate the digital landscape. Geriasphere addresses this critical gap by providing **clear, step-by-step video tutorials** specifically designed for middle-aged and senior citizens to master essential mobile applications.
 
-Our mission is to:
+The mission is to:
 - **Democratize digital literacy** among India's aging population
 - **Reduce technology anxiety** through patient, clear instruction
 - **Enable independent digital navigation** for essential services
-- **Bridge generational gaps** in technology adoption
 
 ## ✨ Features
 
