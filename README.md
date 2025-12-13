@@ -7,7 +7,7 @@ A comprehensive web platform designed to empower middle-aged and senior citizens
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**[Try Geriasphere Live](https://geriasphere.github.io/trialgeriasphere2024/)**
+**[Try Geriasphere Live](http://dsouza-dylan.github.io/geriasphere)**
 
 ## 🌐 What is Geriasphere?
 
