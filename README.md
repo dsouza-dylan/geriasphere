@@ -1,4 +1,4 @@
-# Geriasphere: Technologically Empowering the Elderly
+#🌐 Geriasphere: Technologically Empowering the Elderly
 
 A comprehensive web platform designed to empower middle-aged and senior citizens with step-by-step video tutorials for India's most commonly used mobile applications and digital services.
 
@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Geriasphere: Technologically Empowering the Elderly**
+**🌐 Geriasphere: Technologically Empowering the Elderly**
 
 [Star this repository](https://github.com/dsouza-dylan/geriasphere) | [Report Bug](https://github.com/dsouza-dylan/geriasphere/issues) | [Request Feature](https://github.com/dsouza-dylan/geriasphere/issues)
 
